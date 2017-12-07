@@ -1,0 +1,4 @@
+defaultEntryPoints = ["http"]
+
+[web]
+address = ":8080"
